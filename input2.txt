@@ -1,0 +1,8 @@
+F 1 Olivia	1999 140000 5
+S 5 Jacob  	2005 60000  cse
+S 15 Liam   	2005 70000  ece
+F 3 Benjamin 	2012 100000  2
+F 6 Derek 	2007 120000  4
+Q
+
+

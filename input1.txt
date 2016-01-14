@@ -1,0 +1,7 @@
+G 1  alex      2009 3.95  cse  me
+U 5  rob       2011 3.50  ece  stat
+G 8  samantha  2013 3.00  eee  cse
+U 20 huang     2008 4.00  chem math
+U 15 paul      2009 3.50  me   cse
+G 10 shams     2013 4.00  med  bio
+Q

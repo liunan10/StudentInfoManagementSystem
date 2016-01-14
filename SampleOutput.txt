@@ -1,0 +1,13 @@
+The list of students are : 
+20 huang 2008 4 chem math
+10 shams 2013 4 med bio
+1 alex 2009 3.95 cse me
+15 paul 2009 3.5 me cse
+5 rob 2011 3.5 ece stat
+8 samantha 2013 3 eee cse
+The list of employees are : 
+5 Jacob 2005 60000 cse
+15 Liam 2005 70000 ece
+3 Benjamin 2012 100000 2
+6 Derek 2007 120000 4
+1 Olivia 1999 140000 5
